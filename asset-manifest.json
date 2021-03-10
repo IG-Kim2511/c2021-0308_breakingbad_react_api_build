@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/static/css/main.b8a6af4f.chunk.css",
-    "main.js": "/static/js/main.16e98812.chunk.js",
-    "main.js.map": "/static/js/main.16e98812.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.739628c2.js",
-    "runtime-main.js.map": "/static/js/runtime-main.739628c2.js.map",
-    "static/js/2.ce5da0b1.chunk.js": "/static/js/2.ce5da0b1.chunk.js",
-    "static/js/2.ce5da0b1.chunk.js.map": "/static/js/2.ce5da0b1.chunk.js.map",
-    "static/js/3.b5658bdb.chunk.js": "/static/js/3.b5658bdb.chunk.js",
-    "static/js/3.b5658bdb.chunk.js.map": "/static/js/3.b5658bdb.chunk.js.map",
-    "index.html": "/index.html",
-    "static/css/main.b8a6af4f.chunk.css.map": "/static/css/main.b8a6af4f.chunk.css.map",
-    "static/js/2.ce5da0b1.chunk.js.LICENSE.txt": "/static/js/2.ce5da0b1.chunk.js.LICENSE.txt"
+    "main.css": "/c2021-0308_breakingbad_react_api_build/static/css/main.b8a6af4f.chunk.css",
+    "main.js": "/c2021-0308_breakingbad_react_api_build/static/js/main.16e98812.chunk.js",
+    "main.js.map": "/c2021-0308_breakingbad_react_api_build/static/js/main.16e98812.chunk.js.map",
+    "runtime-main.js": "/c2021-0308_breakingbad_react_api_build/static/js/runtime-main.e7bc00e0.js",
+    "runtime-main.js.map": "/c2021-0308_breakingbad_react_api_build/static/js/runtime-main.e7bc00e0.js.map",
+    "static/js/2.ce5da0b1.chunk.js": "/c2021-0308_breakingbad_react_api_build/static/js/2.ce5da0b1.chunk.js",
+    "static/js/2.ce5da0b1.chunk.js.map": "/c2021-0308_breakingbad_react_api_build/static/js/2.ce5da0b1.chunk.js.map",
+    "static/js/3.b5658bdb.chunk.js": "/c2021-0308_breakingbad_react_api_build/static/js/3.b5658bdb.chunk.js",
+    "static/js/3.b5658bdb.chunk.js.map": "/c2021-0308_breakingbad_react_api_build/static/js/3.b5658bdb.chunk.js.map",
+    "index.html": "/c2021-0308_breakingbad_react_api_build/index.html",
+    "static/css/main.b8a6af4f.chunk.css.map": "/c2021-0308_breakingbad_react_api_build/static/css/main.b8a6af4f.chunk.css.map",
+    "static/js/2.ce5da0b1.chunk.js.LICENSE.txt": "/c2021-0308_breakingbad_react_api_build/static/js/2.ce5da0b1.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.739628c2.js",
+    "static/js/runtime-main.e7bc00e0.js",
     "static/js/2.ce5da0b1.chunk.js",
     "static/css/main.b8a6af4f.chunk.css",
     "static/js/main.16e98812.chunk.js"
